@@ -24,7 +24,7 @@ As the sale of Smartphone increase the expenditure of the Youtube Ads also incre
 #### Model 
 <img src="./images/model.png" alt="sales">
 
-#### Goodness of Fit in Linear Regression
+#### Goodness of Fit 
 <img src="./images/result.png" alt="sales">
 
 #### Test Data 
