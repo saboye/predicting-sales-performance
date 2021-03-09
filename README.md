@@ -8,6 +8,11 @@ This Project will be predicting the sales of smartphones based on the marketing 
 ### Approch 
 Make a statical analysis and Building a statistical model. 
 
+### EDA 
+ The sale distribution is somewhat in a normal distribution. 
+ 
+<img src="./images/sales.png" alt="sales">
+
 #### Author
 
 👤 **SABOYE**
