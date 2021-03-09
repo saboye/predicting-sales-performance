@@ -19,11 +19,15 @@ As the sale of Smartphone increase the expenditure of the Youtube Ads also incre
 <img src="./images/facebook.png" alt="sales">
 
 
-<img src="./images/youtub.png" alt="sales"><img src="./images/facebook.png" alt="sales"></li>
+<img src="./images/youtub.png" alt="sales"><img src="./images/google.png" alt="sales"></li>
 
+#### Model 
+<img src="./images/model.png" alt="sales">
 
+#### Goodness of Fit in Linear Regression
 <img src="./images/result.png" alt="sales">
 
+#### Test Data 
 <img src="./images/test.png" alt="sales">
 
 
