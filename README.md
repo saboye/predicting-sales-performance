@@ -18,8 +18,9 @@ As the sale of Smartphone increase the expenditure of the Youtube Ads also incre
 
 <img src="./images/pairplot.png" alt="sales">
 
-<img src="./images/youtub.png" alt="sales"><img src="./images/facebook.png" alt="sales"><img src="./images/google.png" alt="sales">
 
+<img src="./images/youtub.png" alt="sales"></li>
+   <img src="./images/facebook.png" alt="sales"></li>
 
 
 
