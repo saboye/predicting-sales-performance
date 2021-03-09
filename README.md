@@ -11,7 +11,7 @@ Make a statical analysis and Building a statistical model.
 ### EDA 
  The sale distribution is somewhat in a normal distribution. 
  
-<img src="./images/sales.png" alt="sales">
+<img src="./images/pairplot.png" alt="sales">
 
 #### Author
 
