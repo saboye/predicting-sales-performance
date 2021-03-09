@@ -16,6 +16,14 @@ Make a statical analysis and Building a statistical model.
 <img src="./images/pairplot.png" alt="sales">
 As the sale of Smartphone increase the expenditure of the Youtube Ads also increase. 
 
+<img src="./images/pairplot.png" alt="sales">
+
+<img src="./images/youtub.png" alt="sales"><img src="./images/facebook.png" alt="sales"><img src="./images/google.png" alt="sales">
+
+
+
+
+
 #### Author
 
 👤 **SABOYE**
