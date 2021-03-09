@@ -18,10 +18,11 @@ As the sale of Smartphone increase the expenditure of the Youtube Ads also incre
 
 <img src="./images/facebook.png" alt="sales">
 
-
 <img src="./images/youtub.png" alt="sales"><img src="./images/google.png" alt="sales"></li>
+### Correlation matrix
+<img src="./images/corr.png" alt="sales">
 
-#### Model 
+### Model 
 <img src="./images/model.png" alt="sales">
 
 #### Goodness of Fit 
