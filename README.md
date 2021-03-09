@@ -1,7 +1,7 @@
 # predicting sales performance
 
 ### Overview
-This Project will be predicting the sales of smartphones based on the marketing spending on the Ads on a different platform. 
+This Project will be predicting the sales of smartphones based on the marketing budget spending on the different Ads using three platforms. 
 
 ### Data sets
 
