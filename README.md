@@ -1,7 +1,7 @@
 # predicting sales performance
 
 ### Overview
-This Project will be predicting the sales of smartphones based on the marketing budget spending on the different Ads using three platforms. 
+A project to predict smartphone sales based on the marketing budget spent on advertising using three platforms involves collecting data on marketing spending and smartphone sales, and using statistical and machine learning techniques to build a model that can predict future smartphone sales based on changes in marketing budgetA project to predict smartphone sales based on the marketing budget spent on advertising using three platforms involves collecting data on marketing spending and smartphone sales, and using statistical and machine learning techniques to build a model that can predict future smartphone sales based on changes in marketing budget
 
 ### Data sets
 
